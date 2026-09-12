@@ -47,4 +47,4 @@ See verification/README.md for exact commands, recorded responses and expected e
 - **Builder:** Alex SOLONSKY / Aleksei Solonskii.
 - **Contact:** https://github.com/alexsolonsky/grid-witness/issues
 - **License:** MIT; dependencies retain their licenses. See RIGHTS.md.
-- **Registration:** Luma registration confirmed on 2026-09-12. Telegram community join requires the submitter's interactive login and is pending; not represented as completed.
+- **Registration:** Luma registration confirmed on 2026-09-12. The submitter confirmed joining the official X-Agent Telegram community on 2026-09-12.
